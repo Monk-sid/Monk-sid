@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Maji</h1>
 <h3 align="center">A passionate 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙬𝙚𝙗 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
-<img alt="coder" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.filestackcontent.com%2fefbSR18hT5uRKuo0zoMA&ehk=zs%2bkK9YczPNWfn9uKYeHtyVFDP63Xmr9DOGFN0llU3c%3d">
+<img align="right" height="150px" width="150px"alt="coder" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.filestackcontent.com%2fefbSR18hT5uRKuo0zoMA&ehk=zs%2bkK9YczPNWfn9uKYeHtyVFDP63Xmr9DOGFN0llU3c%3d">
 
 - 📫 How to reach me **siddhartha8597@gmail.com**
 
